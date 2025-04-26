@@ -51,7 +51,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Link do canal no Youtube](https://www.youtube.com/@veteranoedev)
+- [Link do canal no Youtube](https://youtu.be/DbG9ep5-SSY)
 - [Prompt do Podcast](https://github.com/consultorsandro/Podcast_VeterenoeDev/raw/refs/heads/master/Prompt%20Projeto%20PODcast.odt)
 ## 🛠️ Instruções de execução
 
