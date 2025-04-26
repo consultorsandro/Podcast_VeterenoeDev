@@ -83,7 +83,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/irmao.sandroreis/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
@@ -93,4 +93,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Sandro Reis](https://github.com/consultorsandro)
