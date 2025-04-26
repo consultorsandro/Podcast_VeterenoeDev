@@ -52,7 +52,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 📚 Materiais
 
 - [Link do canal no Youtube](https://www.youtube.com/@veteranoedev)
-- [Prompt do Podcast e primeiro episódio] (https://github.com/consultorsandro/Podcast_VeterenoeDev/raw/refs/heads/master/Prompt%20Projeto%20PODcast.odt)
+- [Prompt do Podcast](https://github.com/consultorsandro/Podcast_VeterenoeDev/raw/refs/heads/master/Prompt%20Projeto%20PODcast.odt)
 ## 🛠️ Instruções de execução
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
